@@ -1,0 +1,8 @@
+[appendix]
+== Version history
+
+_This section is non-normative._
+
+*14 October 2025*
+
+* Placeholder for working draft.

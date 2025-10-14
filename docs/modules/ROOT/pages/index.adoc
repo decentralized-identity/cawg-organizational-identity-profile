@@ -1,0 +1,20 @@
+= Organizational Identity Profile
+:toc: macro
+:toc-title:
+:sectanchors:
+:sectnums:
+:sectnumlevels: 5
+
+include::partial$abstract.adoc[]
+
+*Version 1.0 Draft 14 October 2025* · xref:_version_history[]
+
+include::partial$common/license.adoc[]
+
+include::partial$common/contributing.adoc[]
+
+include::partial$common/foreword.adoc[]
+
+include::partial$profile/index.adoc[]
+
+include::partial$version-history.adoc[]

@@ -1,0 +1,7 @@
+[discrete]
+== Contributing
+
+_This section is non-normative._
+
+This specification is an active working draft.
+If you wish to contribute to its development, please view the link:++https://cawg.io/membership/++[CAWG membership page].
