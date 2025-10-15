@@ -15,6 +15,10 @@ include::partial$common/contributing.adoc[]
 
 include::partial$common/foreword.adoc[]
 
-include::partial$profile/index.adoc[]
+include::partial$common/terms.adoc[]
+
+include::partial$profile.adoc[]
+
+include::partial$assertions.adoc[]
 
 include::partial$version-history.adoc[]

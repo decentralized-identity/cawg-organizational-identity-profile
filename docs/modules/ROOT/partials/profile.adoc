@@ -1,0 +1,7 @@
+== Profile definition
+
+An implementation of the *CAWG organizational identity profile* MUST:
+
+* Support the https://c2pa.org/specifications/specifications/2.2/specs/C2PA_Specification.html[C2PA Content Credentials Specification], version 2.2 or a later version.
+* Support the `cawg.x509.cose` signature type in the https://cawg.io/identity/1.1/[CAWG Identity Assertion], version 1.1 or a later version.
+* Support the https://cawg.io/metadata/1.1/[CAWG Metadata Assertion], version 1.1 or a later version.
