@@ -1,1 +1,1 @@
-TO DO: Write abstract text.
+This document defines a lightweight profile of the Content Credentials specification for organizational content creators. The goal is to build on the existing Content Credentials framework to provide creators and publishers the ability to author and cryptographically sign their own assertions.

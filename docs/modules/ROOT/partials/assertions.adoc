@@ -1,0 +1,5 @@
+== Assertion types and references
+
+An organization creating an assertion defined in the https://c2pa.org/specifications/specifications/2.2/specs/C2PA_Specification.html[C2PA Content Credentials Specification] SHOULD include such assertion as a “gathered” assertion rather than a “created” assertion.
+
+The implementation SHOULD reference every such assertion using the _https://cawg.io/identity/1.1/#_referenced_assertions[referenced assertions]_ mechanism defined in the CAWG identity assertion specification to assert responsibility for the content contained in such assertions.

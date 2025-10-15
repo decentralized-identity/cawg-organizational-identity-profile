@@ -1,4 +1,4 @@
 name: organizational-identity-profile
-version: 1.0-draft
+version: 1.0-draft+define-profile
 title: Organizational Identity Profile
 start_page: index.adoc
