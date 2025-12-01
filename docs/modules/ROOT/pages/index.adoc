@@ -1,4 +1,4 @@
-= Organizational Identity Profile
+= Organizational Identity Profile for Content Credentials
 :toc: macro
 :toc-title:
 :sectanchors:
