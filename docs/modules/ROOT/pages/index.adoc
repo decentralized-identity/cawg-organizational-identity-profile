@@ -1,4 +1,4 @@
-= Organizational Identity Profile
+= Organizational Identity Profile for Content Credentials
 :toc: macro
 :toc-title:
 :sectanchors:
@@ -7,7 +7,7 @@
 
 include::partial$abstract.adoc[]
 
-*Version 1.0 Draft 14 October 2025* · xref:_version_history[]
+*Version 1.0 Draft 01 December 2025* · xref:_version_history[]
 
 include::partial$common/license.adoc[]
 
@@ -15,6 +15,10 @@ include::partial$common/contributing.adoc[]
 
 include::partial$common/foreword.adoc[]
 
-include::partial$profile/index.adoc[]
+include::partial$common/terms.adoc[]
+
+include::partial$profile.adoc[]
+
+include::partial$assertions.adoc[]
 
 include::partial$version-history.adoc[]

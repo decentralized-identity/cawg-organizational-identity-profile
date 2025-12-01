@@ -6,3 +6,7 @@ _This section is non-normative._
 *14 October 2025*
 
 * Placeholder for working draft.
+
+*01 December 2025*
+
+* Working draft approved.
