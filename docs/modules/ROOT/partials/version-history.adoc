@@ -9,8 +9,12 @@ _This section is non-normative._
 
 *01 December 2025*
 
-* Working draft approved.
+* Working group approved.
 
 *08 January 2026*
 
 * Remove “or later version” of specification references.
+
+*14 January 2026*
+
+* Working group re-approved.
