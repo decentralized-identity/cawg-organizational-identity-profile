@@ -1,0 +1,15 @@
+== Validator profile definition
+
+An implementation of the *Organizational Identity Profile for Content Credentials* that consumes or presents C2PA claims MUST:
+
+* Support the https://spec.c2pa.org/specifications/specifications/2.4/specs/C2PA_Specification.html[C2PA Content Credentials Specification], version 2.2, 2.3, or 2.4.
+
+* In every C2PA manifest that it consumes or presents, it MUST validate every CAWG identity assertion that uses an organizational identity credential as defined in https://cawg.io/identity/1.2/#_x_509_certificates_and_cose_signatures[§8.2, “X.509 certificates and COSE signatures,”] of the https://cawg.io/identity/1.2/[CAWG Identity Assertion] specification, version 1.2, and report on the status of said validation.
+For each identity assertion that is found to be **trusted,** it MUST prominently display the identity of the organization and its role as claimed in the assertion.
+
+* If any trusted identity assertion also references a https://cawg.io/metadata/1.1/[CAWG Metadata Assertion], as defined in version 1.1 of that specification, the implementation SHOULD display a summary of the information within that metadata assertion.
+
+[NOTE]
+====
+CAWG will review updates to each of these specifications and issue a new version of this profile as appropriate to add support for those versions.
+====

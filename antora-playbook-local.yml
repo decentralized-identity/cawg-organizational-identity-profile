@@ -8,6 +8,8 @@ content:
   sources: 
   - url: .
     branches: HEAD
+    tags:
+    - v1.0
     start_path: docs
 
 ui:
