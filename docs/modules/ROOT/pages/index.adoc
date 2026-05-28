@@ -7,7 +7,13 @@
 
 include::partial$abstract.adoc[]
 
-*Version 1.0 DIF Ratified Specification 05 February 2026* · xref:_version_history[]
+*Version 1.1 Draft 28 May 2026* · xref:_version_history[]
+
+[IMPORTANT]
+=====
+This is a working draft of an upcoming version of this specification and may be changed without warning.
+Implementors needing a stable specification should instead refer to the xref:1.0@ROOT:index.adoc[1.0 version of this specification].
+=====
 
 include::partial$common/license.adoc[]
 
@@ -17,7 +23,9 @@ include::partial$common/foreword.adoc[]
 
 include::partial$common/terms.adoc[]
 
-include::partial$profile.adoc[]
+include::partial$generator-profile.adoc[]
+
+include::partial$validator-profile.adoc[]
 
 include::partial$assertions.adoc[]
 

@@ -3,22 +3,8 @@
 
 _This section is non-normative._
 
-*14 October 2025*
+*28 May 2026*
 
-* Placeholder for working draft.
-
-*01 December 2025*
-
-* Working group approved.
-
-*08 January 2026*
-
-* Remove “or later version” of specification references.
-
-*14 January 2026*
-
-* Working group re-approved.
-
-*05 February 2026*
-
-* Ratified by DIF Steering Committee.
+* Started 1.1-draft version of this specification, derived from the xref:1.0@ROOT:index.adoc[1.0 version of this specification]. (xref:1.0@ROOT:index.adoc#_version_history[Version history])
+* Updated to reference version 2.4 of the C2PA technical specification.
+* Introduced separate generator and validator profiles with additional requirements for each.

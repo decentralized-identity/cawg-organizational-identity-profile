@@ -1,0 +1,14 @@
+== Generator profile definition
+
+A implementation of the *Organizational Identity Profile for Content Credentials* that _generates_ C2PA claims MUST:
+
+* Support the https://spec.c2pa.org/specifications/specifications/2.4/specs/C2PA_Specification.html[C2PA Content Credentials Specification], version 2.2, 2.3, or 2.4.
+
+* Offer the ability for its users to configure organizational identity credentials as defined in https://cawg.io/identity/1.2/#_x_509_certificates_and_cose_signatures[§8.2, “X.509 certificates and COSE signatures,”] of the https://cawg.io/identity/1.2/[CAWG Identity Assertion], version 1.2, and generate identity assertions using those credentials.
+
+* Offer the ability for its users to provide additional metadata of interest to the organization via the https://cawg.io/metadata/1.1/[CAWG Metadata Assertion], version 1.1.
+
+[NOTE]
+====
+CAWG will review updates to each of these specifications and issue a new version of this profile as appropriate to add support for those versions.
+====
